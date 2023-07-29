@@ -1,2 +1,2 @@
 # latihan_git
-bebas
+tidak bebas
